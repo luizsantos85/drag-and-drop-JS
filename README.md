@@ -62,4 +62,4 @@ Window
 
 ## À implementar 👷
 
--  Num futuro quero implementá-lo com REACT para frontend e NODE para backend.
+-  Num futuro quero implementá-lo com REACT para frontend e NODE para backend, no estilo gerenciamento de tarefas kanban.
